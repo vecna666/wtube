@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         // Enable hardware acceleration
         webView.setLayerType(WebView.LAYER_TYPE_HARDWARE, null)
 
-        webView.loadUrl("https://www.android.com/")
+        webView.loadUrl("https://www.youtube.com/")
     }
 }
 
